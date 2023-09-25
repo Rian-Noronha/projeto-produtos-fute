@@ -1,0 +1,46 @@
+body{
+    background: #fffff2 url('images/fundo.png');
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal{
+    width: 900px;
+    padding: 2x;
+    margin: 1px;
+}
+
+.image_capa{
+    border: 10px solid black;
+}
+
+.image_mostras{
+    border: 5px solid black;
+}
+
+#menu{
+    padding: 10px;
+    background: #ecece1;
+    margin: 2px;
+}
+
+#conteudo{
+    padding: 5px;
+    background: #fff6f6;
+}
+
+#conteudo p{
+    text-align: justify;
+    padding: 2px;
+}
+
+#rodape{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;  
+    color: tomato;  
+    padding: 5px;
+    margin: 2px;
+}
